@@ -5,19 +5,24 @@ This is a Banking application made for Task 1 of GRIP(Graduate Rotational Intern
 
 This Full Stack application is made using
 
-Postgres SQL
+1)Postgres SQL
 
-ExpressJS
+2)ExpressJS
 
-ReactJS
+3)ReactJS
 
-NodeJS
+4)NodeJS
 
 The project is hosted using heroku, here.
 
 Checkout this same project made using Firebase and the backend on github here hosted using firebase here
 
 Screenshots:
+![image](https://user-images.githubusercontent.com/80351162/167658719-64966d3c-8b5a-49b0-a60a-8a40132a77b0.png)
+![image](https://user-images.githubusercontent.com/80351162/167658814-40cd5eab-2e6c-4da3-8b52-89fa09b8c3cc.png)
+![image](https://user-images.githubusercontent.com/80351162/167658859-8f37378c-426a-4d43-958d-4c611b2039e9.png)
+![image](https://user-images.githubusercontent.com/80351162/167658916-86419c18-e0e6-48d0-a333-2e7000ad6819.png)
+
 
 home customers transfer history
 
